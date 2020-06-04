@@ -1,0 +1,1 @@
+20160604 MarkovChainNamesP5_sketch.js and MarkovChainP5_sketch.js were copied from github. Please refer to google doc 'wan diary from 20200526' 20200604 for details
